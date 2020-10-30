@@ -1,0 +1,5 @@
+data.db
+data_text.csv
+.gitignore
+.ipynb_checkpoints
+.idea
